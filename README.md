@@ -18,5 +18,7 @@ A 54-second intro video for my Rise 360 micro-lesson, made with Synthesia (AI pr
 
 **Tool:** Synthesia
 
+https://github.com/user-attachments/assets/f645459d-7d91-4254-9c2b-9cb2395c19b8
+
 ## Coming soon
 - Microlearning course in Articulate Rise 360: *Preparing for a Successful ARD Meeting*
