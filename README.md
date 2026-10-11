@@ -13,6 +13,10 @@ A one-page checklist that walks teachers through what to do before, during, and 
 
 ![ARD Meeting Prep Job Aid](Yvette_Saucedo_ARD_Meeting_Prep_Job_Aid.png)
 
+## 2. Training Video: Lesson Intro
+A 54-second intro video for my Rise 360 micro-lesson, made with Synthesia (AI presenter) from a script I wrote.
+
+**Tool:** Synthesia
+
 ## Coming soon
 - Microlearning course in Articulate Rise 360: *Preparing for a Successful ARD Meeting*
-- Short training video
