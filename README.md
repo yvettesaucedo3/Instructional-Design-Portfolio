@@ -9,9 +9,9 @@ A one-page checklist that walks teachers through what to do before, during, and 
 **Tool:** Canva  
 **Audience:** General and special education teachers  
 
-[Download the PDF](Yvette_Saucedo_ARD_Meeting_Prep_Job_Aid.pdf)
+[YvetteSaucedo_ARD_Meeting_Prep_Job_Aid.pdf](https://github.com/user-attachments/files/33314011/YvetteSaucedo_ARD_Meeting_Prep_Job_Aid.pdf)
 
-![ARD Meeting Prep Job Aid](Yvette_Saucedo_ARD_Meeting_Prep_Job_Aid.png)
+<img width="1545" height="1999" alt="YvetteSaucedo_ARD_Meeting_Prep_Job_Aid" src="https://github.com/user-attachments/assets/5fede3d1-0139-4ec0-8b5f-e3a8d5dee284" />
 
 ## 2. Training Video: Lesson Intro
 A 54-second intro video for my Rise 360 micro-lesson, made with Synthesia (AI presenter) from a script I wrote.
