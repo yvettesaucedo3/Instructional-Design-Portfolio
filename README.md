@@ -1,7 +1,7 @@
 # Instructional Design Portfolio
 **Yvette Saucedo, M.Ed.** | Special Education & Curriculum | [LinkedIn](https://www.linkedin.com/in/yvettesaucedo)
 
-Learning resources I designed to help special education teams run smooth, family-centered ARD meetings. All examples are fictional and contain no student information.
+Learning resources designed to support special education teams in running smooth, family-centered IEP/ARD meetings (ARD = Admission, Review and Dismissal, Texas’s name for IEP meetings). All examples are fictional and contain no student information.
 
 ## 1. Job Aid: How to Prepare for an ARD Meeting
 A one-page checklist that walks teachers through what to do before, during, and after an ARD meeting, with key terms in plain language and "say this, not that" examples for talking with families.
