@@ -4,7 +4,7 @@
 Learning resources designed to support special education teams in running smooth, family-centered IEP/ARD meetings (ARD = Admission, Review and Dismissal, Texas's name for IEP meetings). The three pieces work together: the video introduces the topic, the micro-lesson teaches it, and the job aid is what teachers keep. All examples are fictional and contain no student information.
 
 ## 1. Microlearning: Preparing for a Successful ARD Meeting
-**▶ [Take the lesson](https://yvettesaucedo3.github.io/Instructional-Design-Portfolio/rise-lesson/)** (works on desktop and phone)
+**[Take the lesson](https://yvettesaucedo3.github.io/Instructional-Design-Portfolio/rise-lesson/)** (works on desktop and phone)
 
 A short, mobile-friendly micro-lesson that walks teachers through what to do before, during, and after an ARD meeting. I designed each part to make teachers do something, not just read:
 
@@ -20,7 +20,7 @@ A short, mobile-friendly micro-lesson that walks teachers through what to do bef
 **Audience:** General and special education teachers
 
 ## 2. Training Video: Lesson Intro
-A 54-second intro video for the micro-lesson, made with Synthesia (AI presenter) from a script I wrote. I added the captions and thumbnail.
+A 54-second intro video for the micro-lesson, made with Synthesia (AI presenter) from a script I wrote. I also created the captions and custom thumbnail, which you can see in the lesson version.
 
 **Tool:** Synthesia
 
