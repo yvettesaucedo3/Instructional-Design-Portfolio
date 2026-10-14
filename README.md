@@ -35,3 +35,10 @@ A one-page checklist that walks teachers through what to do before, during, and 
 [Download the job aid (PDF)](Yvette_Saucedo_ARD_Meeting_Prep_Job_Aid.pdf)
 
 ![ARD Meeting Prep Job Aid](Yvette_Saucedo_ARD_Meeting_Prep_Job_Aid.png)
+
+## Implementation & Data
+
+### Implementation Case Study: Embrace IEP + Journify Rollout
+How I took two compliance platforms at a new school from vendor demos to go-live and lasting adoption: a manual SIS import across four modules and then an automated SFTP feed, role permissions for legal records, Loom videos so busy providers could onboard on their own, and a 15-step ARD tracker. 16 ARD meetings completed in the first 8 weeks, 99.6% of testing accommodations delivered, and teacher feedback that led Journify to add bulk entry for all users.
+
+[View the case study (PDF)](Implementation_Case_Study_Embrace_Journify.pdf)
