@@ -37,7 +37,9 @@ A 54-second intro video for the micro-lesson, made with Synthesia (AI presenter)
 
 **Tool:** Synthesia
 
-https://github.com/user-attachments/assets/f645459d-7d91-4254-9c2b-9cb2395c19b8
+[![Watch the 54-second intro video](ARD_Video_Thumbnail.png)](https://github.com/user-attachments/assets/f645459d-7d91-4254-9c2b-9cb2395c19b8)
+
+*Click the image to play the video.*
 
 ### 3. Job Aid: How to Prepare for an ARD Meeting
 A one-page checklist that walks teachers through what to do before, during, and after an ARD meeting, with key terms in plain language and "say this, not that" examples for talking with families.
