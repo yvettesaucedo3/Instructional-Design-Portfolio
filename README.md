@@ -1,7 +1,20 @@
 # Instructional Design Portfolio
 **Yvette Saucedo, M.Ed.** | Special Education & Curriculum | [LinkedIn](https://www.linkedin.com/in/yvettesaucedo)
 
-Learning resources designed to support special education teams in running smooth, family-centered IEP/ARD meetings (ARD = Admission, Review and Dismissal, Texas's name for IEP meetings). The three pieces work together: the video introduces the topic, the micro-lesson teaches it, and the job aid is what teachers keep. All examples are fictional and contain no student information.
+Designing learning for students and adults: tools that help teachers, coaches, and families make better decisions for students. All examples are fictional and contain no student information.
+
+## Math Intervention & MTSS
+
+### Math Intervention Decision Guides (Leader + Teacher versions)
+Two companion guides built on the National Center on Intensive Intervention's Data-Based Individualization (DBI) process. The leader version helps coaches and MTSS leads decide what to do when a student isn't responding to Tier 2 math intervention: check fidelity, dosage, access and data quality, coach the teacher, and know when to refer. The teacher version turns the same process into what to do in each session: teach with the CRA sequence, track progress weekly, and know when to bring a student to the MTSS team.
+
+**Tool:** Canva  
+**Audience:** Instructional coaches, MTSS leads, campus leaders, and intervention teachers
+
+[Leader guide (PDF)](Math_Intervention_Guide_Leaders.pdf) · [Teacher guide (PDF)](Math_Intervention_Guide_Teachers.pdf)
+
+## ARD Meeting Preparation
+Learning resources designed to support special education teams in running smooth, family-centered IEP/ARD meetings (ARD = Admission, Review and Dismissal, Texas's name for IEP meetings). The three pieces work together: the video introduces the topic, the micro-lesson teaches it, and the job aid is what teachers keep.
 
 ## 1. Microlearning: Preparing for a Successful ARD Meeting
 **[Take the lesson](https://yvettesaucedo3.github.io/Instructional-Design-Portfolio/rise-lesson/)** (works on desktop and phone)
