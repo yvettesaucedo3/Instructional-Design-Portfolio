@@ -42,3 +42,8 @@ A one-page checklist that walks teachers through what to do before, during, and 
 How I took two compliance platforms at a new school from vendor demos to go-live and lasting adoption: a manual SIS import across four modules and then an automated SFTP feed, role permissions for legal records, Loom videos so busy providers could onboard on their own, and a 15-step ARD tracker. 16 ARD meetings completed in the first 8 weeks, 99.6% of testing accommodations delivered, and teacher feedback that led Journify to add bulk entry for all users.
 
 [View the case study (PDF)](Implementation_Case_Study_Embrace_Journify.pdf)
+
+### ARD Case Study: Annual ARD + REED with a Placement Change
+A complete IEP I wrote for a fictional 7th grader with a learning disability, dyslexia, and dysgraphia. It shows how I turn evaluation data into clear present levels, write measurable TEKS-aligned goals, justify a placement change with data, and write a Prior Written Notice and deliberations that families can understand. All student, family, and school information is fictional.
+
+[View the case study (PDF)](ARD_Case_Study_Fictional_Sample.pdf)
